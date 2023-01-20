@@ -1,0 +1,390 @@
+其他地区,#genre#
+8TV (720p) [Geo-blocked],https://live-sg1.global.ssl.fastly.net/live-hls/tonton3.m3u8
+Animax Asia (Vietnamese Subs) (720p),https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/playlist.m3u8
+Beautiful Life TV,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+Boomerang South East Asia (Vietnamese dub) (1080p),https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist.m3u8
+CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+CCTV-1综合 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+CCTV-2财经 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
+CCTV-3综艺 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+CCTV-4 Asia (576p),http://210.210.155.37/qwr9ew/s/s19/index.m3u8
+CCTV-5+体育赛事 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+CCTV-5体育 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
+CCTV-6电影 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225632/index.m3u8
+CCTV-7国防军事 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
+CCTV-8电视剧 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225631/index.m3u8
+CCTV-9纪录 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
+CCTV-10科教 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225636/index.m3u8
+CCTV-11戏曲 (1080p),http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
+CCTV-12社会与法制 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225637/index.m3u8
+CCTV-13新闻 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+CCTV-15音乐 (720p),http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=54&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+CCTV-17农业农村 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
+CCTV-女性时尚 (576p),http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8
+Celestial Movies (Indonesian Subtitle) (576p),http://210.210.155.37/dr9445/h/h14/index.m3u8
+CETV1 (576p),http://183.207.248.71/gitv/live1/G_CETV-1/G_CETV-1
+CETV2 (576p),http://183.207.248.71/gitv/live1/G_CETV-2/G_CETV-2
+CGTN (576p),http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=14&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+Channel 8 [Geo-blocked],https://d34e90s3s13i7n.cloudfront.net/hls/clr4ctv_ch8/master.m3u8
+CHC动作电影 (1080p) [Not 24/7],http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=119&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+Creation TV (720p) [Not 24/7],http://al-pull2.hkatv.vip/live/CTV.m3u8
+CreaTV Community Channel 15 (San Jose CA) (720p),https://reflect-creatv.cablecast.tv/live-13/live/live.m3u8
+CTi Asia (中天亞洲台) (720p),http://50.7.220.74:8278/ctiasia_twn/playlist.m3u8?ct=19226&tid=MC3C8838319088383190&tsum=6eaf7a477dd08b06a5dc54b4c05e52e1
+CTi Entertainment (中天娛樂台) (720p),http://50.7.220.74:8278/ctient/playlist.m3u8?ct=17874&tid=m6780c60bd34a13540795&tsum=06089e289a460b0685447b7656d550e3
+CTi News (中天新聞台),https://hls.youtb.workers.dev/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
+CTi Variety (中天綜合台) (720p),http://50.7.220.74:8278/ctizhonghe/playlist.m3u8?ct=19193&tid=MBBB1520797915207979&tsum=3a6f7f0c591c2ec6678d51b741f290b2
+CTS HD (華視) (720p),http://50.7.220.74:8278/ctshd_twn/playlist.m3u8?ct=19226&tid=MAFA1309481213094812&tsum=429f7c40691cdcc6c1fb108dbd11e002
+CTS News (華視新聞資訊) [Geo-blocked],http://seb.sason.top/sc/hsxw_fhd.m3u8
+CTV (CTV中視) (720p),http://50.7.220.74:8278/zhongshihd_twn/playlist.m3u8?ct=19226&tid=MB8B7313326473133264&tsum=ae7506028e559f3a6e2a3519b2f6a91e
+CTV Classic (中視經典台) (720p),http://50.7.220.74:8278/zhongshi_twn/playlist.m3u8?ct=18335&tid=mffe9aaf8765f&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
+DaAi1 (大愛1) (720p),https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+DaAi2 (大愛2) (720p),https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+Dragon TV International (360p),http://210.210.155.37/x6bnqe/s/s29/index.m3u8
+EBC Drama (東森戏剧台) (720p),http://198.16.64.10:8278/ettvdrama/playlist.m3u8?ct=19225&tid=ME1E3883142638831426&tsum=12c87a5fab65a0ba071cebce86313f45
+EBC Financial News (東森財經新聞台) (720p),http://50.7.220.74:8278/ettvcaijing_twn/playlist.m3u8?ct=17874&tid=m999b5a0f7fca17599138&tsum=345085d2d6d4401fdb3da968dfee5a54
+EBC Foreign Movie (東森洋片台) (720p),http://50.7.220.74:8278/ettvwestern/playlist.m3u8?ct=17874&tid=mfdfc048e6c2416337202&tsum=cad39b26202d525ea820bee1d69e545f
+EBC Movie (東森電影台) (720p),http://50.7.220.74:8278/ettvmovie/playlist.m3u8?ct=19225&tid=MDED1943740419437404&tsum=120834a4218c4b5c3bb19efb8116f859
+EBC News (東森新聞台) (1080p) [Not 24/7],http://seb.sason.top/sc/dsxw_fhd.m3u8
+EBC Super (東森超視台) (720p),http://198.16.64.10:8278/ettvsuper/playlist.m3u8?ct=19225&tid=MA4A3005409230054092&tsum=c5d89f66fa1a8bcd26f482d4a370def5
+EBC Variety (東森綜合台) (720p),http://50.7.220.74:8278/ettvzhonghe/playlist.m3u8?ct=17874&tid=m65c4e525f24617101171&tsum=663db593cfeefc92ce4b5d7461988f3f
+Era News (年代新聞台) (720p),http://50.7.220.74:8278/niandainews_twn/playlist.m3u8?ct=19226&tid=MA6A4647720946477209&tsum=48a66838dbcf633b2fb41307b29ef50a
+ETTV News (720p),http://50.7.220.74:8278/ettvnews/playlist.m3u8?ct=19225&tid=MAEA2793211727932117&tsum=151345e2ab6bc0c89ac85598f1988cd3
+FTV (民視) (720p),http://50.7.220.74:8278/ftvhd_taiwan/playlist.m3u8?ct=18335&tid=m15b424641a89&tsum=ba82cdbfb8253c45a13df5354e6d0dbc
+FTV News (民視新聞台) (720p),http://198.16.64.10:8278/ftvnew_taiwan/playlist.m3u8?ct=19226&tid=ME4E4172771041727710&tsum=7b91c7af6212419479b392ff575e0689
+FTV One (民視第一台) (720p) [Not 24/7],http://seb.sason.top/ptv/ftv.php?id=dy
+FTV Taiwan (民視台灣台) (720p),http://198.16.64.10:8278/ftvtaiwan_twn/playlist.m3u8?ct=19226&tid=MDFD8196635981966359&tsum=b82639ac8b4590b4206effe348e2f9c2
+GEM (576p),http://210.210.155.37/uq2663/h/h19/index.m3u8
+Good2 (好消息2台) (720p),http://198.16.64.10:8278/good2_twn/playlist.m3u8?ct=19225&tid=ME9E3966510439665104&tsum=a2788b2ccea04a8a8082d663fb7838e5
+GOOD TV CH1 綜合台 (720p) [Not 24/7],https://live.streamingfast.net/osmflivech1.m3u8
+GTV1 (八大第1台) (720p),http://50.7.220.74:8278/badafirst/playlist.m3u8?ct=17874&tid=mb8efded78b4e12042621&tsum=028ad819cd9a0f949a043d652fa3e164
+GTV Drama (八大戏剧台) (720p),http://50.7.220.74:8278/badadrama/playlist.m3u8?ct=19225&tid=ME4E4734124647341246&tsum=c4e596572a79ad99675ee2137d1cc43d
+GTV Entertainment (八大综合台) (720p),http://50.7.220.74:8278/badazhonghe/playlist.m3u8?ct=19225&tid=MC7C4692263546922635&tsum=ffdc7a6397b511103e0df0b92e678790
+HBO HD Taiwan (720p),http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?ct=19225&tid=ME9E5260921952609219&tsum=a904cd480db106670befb11d14149fce
+HKIBC (720p),https://live.astradamy.com/hk76/index.m3u8
+HKSTV (香港衛視) (720p) [Not 24/7],https://al-pull2.hkatv.vip/live/hktv20210929.m3u8
+Hollywood (720p),http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?ct=19225&tid=MECE5611281156112811&tsum=ad8884ee16b04f885f24bae98fc5fb9f
+Indigenous TV (720p),http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
+Lighting Lives Blessing Nations TV Chinese (LLBN) (480p),https://brightstar-chinese.secure.footprint.net/egress/bhandler/brightstar/brightstarChinese/manifest.m3u8
+LS Time Movie (720p),http://50.7.220.74:8278/cb7a1fec69/playlist.m3u8?ct=18335&tid=md05ab4002297&tsum=ebe4254ee0e073c2d3c9789e679c00a5
+LTV Drama (龙华戏剧) (720p),http://198.16.64.10:8278/lunghuaxiju_twn/playlist.m3u8?ct=19226&tid=MBAB4709384347093843&tsum=a2a7258f8565588e10b8da2f26ba8039
+Luxe TV (1080p),https://alchimie-luxe-fr-rakuten.amagi.tv/playlist.m3u8
+My Cinema Asia (1080p) [Geo-blocked],http://210.210.155.37/uq2663/h/h193/index.m3u8
+NHK Chinese Vision (720p),https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+NTD TV East (New Tang Dynasty Television),https://ntd02.akamaized.net/NTDA/index.m3u8
+Ou-Mun Macau Satellite Ch. 96 (720p),https://live3.tdm.com.mo/ch3/ch3.live/playlist.m3u8
+Phoenix Chinese Channel (鳳凰衛視中文) (576p),http://210.210.155.37/uq2663/h/h157/index2.m3u8
+Phoenix InfoNews Channel (鳳凰衛視資訊) (576p),http://210.210.155.37/qwr9ew/s/s21/index.m3u8
+Pluto TV BabyFirst (720p) [Not 24/7],https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+Pluto TV Love Nature (720p),https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+PTS (公视) (720p),http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?ct=17990&tid=13765524&tsum=03eb77c1c186944b97737f14e95076c0
+RTHK (港台電視31) (360p) [Geo-blocked],https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
+RTHK (港台電視32) (360p) [Not 24/7],https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8
+SET News (三立新聞) (720p),http://50.7.220.74:8278/sanlixiju_twn/playlist.m3u8?ct=19226&tid=MBDB8405357084053570&tsum=78944c0951d21a699e46fff4318a3799
+SET Taiwan (三立臺灣台) (720p),http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?ct=17874&tid=m92ccadc4dc3718157816&tsum=3570a8198ca0fb7ebb803807e38b33fb
+Star Chinese Channel HD (卫视中文台) (720p),http://50.7.220.74:8278/weishichinese_twn/playlist.m3u8?ct=19226&tid=MA8A7894022878940228&tsum=c0323ce59263e0096d4181626874e17c
+Taiwan Indigenous TV (原住民電視) (720p),http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+TDM Entertainment Ch. 95 (720p),https://live3.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
+TDM Info. Macau (720p) [Not 24/7],https://live3.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
+TDM Ou Mun Macau Ch. 91 (720p),https://live3.tdm.com.mo/ch1/ch1.live/playlist.m3u8
+TDM Sports Ch. 93 (720p),https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
+Tech Storm (720p) [Geo-blocked],https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/index.m3u8
+Thrill (576p),http://210.210.155.37/qwr9ew/s/s34/index.m3u8
+Toonmax TV (576p),http://210.210.155.37/qwr9ew/s/s50/index.m3u8
+TTV (台视) (720p),http://50.7.220.74:8278/ttv_taiwan/playlist.m3u8?ct=17874&tid=mdea1ba75c9e516139101&tsum=95f1742d36f959fe6e241587a4f8e970
+TTV News (台视新聞台),https://hls.youtb.workers.dev/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
+Türkmenistan (112p) [Not 24/7],https://alpha.tv.online.tm/hls/ch007.m3u8
+Türkmenistan Sport (406p) [Not 24/7],https://alpha.tv.online.tm/hls/ch004.m3u8
+TV BRICS Chinese (1080p) [Not 24/7],https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
+TVBS Asia (1080p),http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+TVBS Entertainment Channel (TVBS歡樂台) (720p),http://50.7.220.74:8278/tvbshuanle_twn/playlist.m3u8?ct=19193&tid=MC8C2318787923187879&tsum=394d2b9af3df7846e2cdc60d69dd4219
+TVBS HD (720p),http://50.7.220.74:8278/tvbs/playlist.m3u8?ct=19226&tid=MDED5111960351119603&tsum=49931e2d3885c468d56ffae2c2db9e6e
+TVBS News (TVBS新聞台) (720p),http://50.7.220.74:8278/tvbs_n/playlist.m3u8?ct=19226&tid=MEFE5283322452833224&tsum=5f4e9bb0782ab3aae36328763cba2ffd
+TVS2 (576p),http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227005/index.m3u8
+Unique Satellite TV (非凡新聞台) (720p),http://50.7.220.74:8278/feifannews_twn/playlist.m3u8?ct=17874&tid=m050e7aad65f614336734&tsum=4ea1b829d195ac69a6c2ca51b21ae378
+Videoland Movie (緯來電影台) (720p),http://50.7.220.74:8278/videolandmovie/playlist.m3u8?ct=18335&tid=ma2dac66da407&tsum=9a5a39559f64a71081ef9b3a85f2886c
+Videoland Sports (720p),http://50.7.220.74:8278/videolandsport/playlist.m3u8?ct=19226&tid=MA6A1192684511926845&tsum=0b7ca9a61e7371df68108a27dc358c68
+ViuTV (720p),https://live.astradamy.com/viutv/index.m3u8
+ViuTVsix,http://61.238.6.49:8000/bysid/96
+Xing Kong International (360p),http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
+东乡电视台,http://117.156.28.119/270000001111/1110000131/index.m3u8
+东方卫视 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8
+中国天气 (576p) [Not 24/7],http://112.25.48.68/live/program/live/zgqx/1300000/mnf.m3u8
+优漫卡通 (576p),http://223.110.243.171/PLTV/3/224/3221226982/index.m3u8
+北京卫视 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225673/index.m3u8
+和政电视台,http://117.156.28.119/270000001111/1110000149/index.m3u8
+唯心電視 (480p),http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+四川卫视 (576p),http://39.134.115.163:8080/PLTV/88888910/224/3221225733/index.m3u8
+四川妇女儿童 (720p) [Not 24/7],http://scgctvshow.sctv.com/hdlive/sctv7/index.m3u8
+天津卫视 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225698/index.m3u8
+宁夏卫视 (576p),http://39.134.115.163:8080/PLTV/88888910/224/3221225726/index.m3u8
+安徽卫视 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225691/index.m3u8
+山东体育 (1080p) [Geo-blocked],http://livealone302.iqilu.com/iqilu/typd.m3u8
+山东农科 (406p) [Geo-blocked],http://livealone302.iqilu.com/iqilu/nkpd.m3u8
+山东卫视 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225697/index.m3u8
+山东少儿 (406p) [Geo-blocked],http://livealone302.iqilu.com/iqilu/sepd.m3u8
+山东生活 (1080p) [Geo-blocked],http://livealone302.iqilu.com/iqilu/shpd.m3u8
+山东综艺 (406p) [Geo-blocked],http://livealone302.iqilu.com/iqilu/zypd.m3u8
+山东齐鲁 (1080p) [Geo-blocked],http://livealone302.iqilu.com/iqilu/qlpd.m3u8
+山西卫视 (576p),http://39.134.115.163:8080/PLTV/88888910/224/3221225730/index.m3u8
+广东体育 (720p),http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=8&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+广东公共 (576p),http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=85&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+广东卫视 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225701/index.m3u8
+广西卫视 (576p),http://39.134.115.163:8080/PLTV/88888910/224/3221225731/index.m3u8
+延边卫视 (576p),http://223.110.245.139/PLTV/4/224/3221227002/index.m3u8
+徐州經濟生活 (1080p),http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8
+房山电视台 (576p),https://live.funhillrm.com/2/playlist.m3u8
+敦煌电视台 (1080p),http://117.156.28.119/270000001111/1110000028/index.m3u8
+江苏卫视 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225702/index.m3u8
+江西卫视 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8
+河北卫视 (576p),http://39.134.115.163:8080/PLTV/88888910/224/3221225732/index.m3u8
+河南卫视 (540p),http://112.25.48.68/live/program/live/hnws/1300000/mnf.m3u8
+浙江卫视 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8
+浙江少儿 (1080p),http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江数码时代 (1080p) [Not 24/7],http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+浙江民生休闲 (1080p) [Not 24/7],http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江经济生活 (1080p) [Not 24/7],http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+海南卫视 (576p),http://39.134.115.163:8080/PLTV/88888910/224/3221225722/index.m3u8
+深圳卫视 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225700/index.m3u8
+湖北卫视 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225699/index.m3u8
+湖南卫视 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225704/index.m3u8
+滁州市广播电视台 公共频道 (400p),http://live.cztv.cc:85/live/ggpd.m3u8
+滁州市广播电视台 新闻综合频道 (1080p),http://live.cztv.cc:85/live/xwpd.m3u8
+滁州科教 (450p),http://183.167.193.45:1935/live/cztvkj/playlist.m3u8
+甘肃卫视 (576p),http://39.134.115.163:8080/PLTV/88888910/224/3221225724/index.m3u8
+美国中文电视 (406p) [Not 24/7],https://jpts.sinovision.net/livestream.m3u8
+耀才財經台 (576p),http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+舟山新闻综合 (240p),http://live.wifizs.cn/xwzh/sd/live.m3u8
+萍鄉新聞綜合 (576p) [Not 24/7],http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv1stream.m3u8
+西安丝路 (404p) [Not 24/7],http://stream2.xiancity.cn/xatv5/playlist.m3u8
+西安商务资讯 (180p) [Not 24/7],http://stream2.xiancity.cn/xatv3/playlist.m3u8
+贵州卫视 (360p),http://125.210.152.18:9090/live/GZWSHD_H265.m3u8
+辽宁卫视 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225735/index.m3u8
+通州电视台 (720p),http://pull.dayuntongzhou.com/live/tztv.m3u8
+酒泉新闻综合 (576p),http://117.156.28.119/270000001111/1110000001/index.m3u8
+重庆卫视 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225692/index.m3u8
+金鹰卡通 (湖南) (540p) [Not 24/7],http://112.25.48.68/live/program/live/jykt/1300000/mnf.m3u8
+青海卫视 (576p),http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8
+风尚购物 (1080p),http://183.207.248.71/cntv/live1/fengshanggw/fengshanggw
+高台电视台 (1080p),http://117.156.28.119/270000001111/1110000146/index.m3u8
+鹤壁新闻综合 (480p) [Not 24/7],http://pili-live-hls.hebitv.com/hebi/hebi.m3u8
+黑龙江卫视 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225690/index.m3u8
+點掌財經 (712p),http://cclive2.aniu.tv/live/anzb.m3u8
+
+Undefined,#genre#
+8TV (720p) [Geo-blocked],https://live-sg1.global.ssl.fastly.net/live-hls/tonton3.m3u8
+Beautiful Life TV,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+CCTV-5+体育赛事 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+CCTV-7国防军事 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
+CCTV-8电视剧 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225631/index.m3u8
+CCTV-11戏曲 (1080p),http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
+CCTV-12社会与法制 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225637/index.m3u8
+CCTV-17农业农村 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
+CETV1 (576p),http://183.207.248.71/gitv/live1/G_CETV-1/G_CETV-1
+CETV2 (576p),http://183.207.248.71/gitv/live1/G_CETV-2/G_CETV-2
+Channel 8 [Geo-blocked],https://d34e90s3s13i7n.cloudfront.net/hls/clr4ctv_ch8/master.m3u8
+CTS HD (華視) (720p),http://50.7.220.74:8278/ctshd_twn/playlist.m3u8?ct=19226&tid=MAFA1309481213094812&tsum=429f7c40691cdcc6c1fb108dbd11e002
+CTV (CTV中視) (720p),http://50.7.220.74:8278/zhongshihd_twn/playlist.m3u8?ct=19226&tid=MB8B7313326473133264&tsum=ae7506028e559f3a6e2a3519b2f6a91e
+Dragon TV International (360p),http://210.210.155.37/x6bnqe/s/s29/index.m3u8
+EBC Super (東森超視台) (720p),http://198.16.64.10:8278/ettvsuper/playlist.m3u8?ct=19225&tid=MA4A3005409230054092&tsum=c5d89f66fa1a8bcd26f482d4a370def5
+EBC Variety (東森綜合台) (720p),http://50.7.220.74:8278/ettvzhonghe/playlist.m3u8?ct=17874&tid=m65c4e525f24617101171&tsum=663db593cfeefc92ce4b5d7461988f3f
+GEM (576p),http://210.210.155.37/uq2663/h/h19/index.m3u8
+Good2 (好消息2台) (720p),http://198.16.64.10:8278/good2_twn/playlist.m3u8?ct=19225&tid=ME9E3966510439665104&tsum=a2788b2ccea04a8a8082d663fb7838e5
+GOOD TV CH1 綜合台 (720p) [Not 24/7],https://live.streamingfast.net/osmflivech1.m3u8
+GTV1 (八大第1台) (720p),http://50.7.220.74:8278/badafirst/playlist.m3u8?ct=17874&tid=mb8efded78b4e12042621&tsum=028ad819cd9a0f949a043d652fa3e164
+HBO HD Taiwan (720p),http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?ct=19225&tid=ME9E5260921952609219&tsum=a904cd480db106670befb11d14149fce
+HKIBC (720p),https://live.astradamy.com/hk76/index.m3u8
+Indigenous TV (720p),http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
+Luxe TV (1080p),https://alchimie-luxe-fr-rakuten.amagi.tv/playlist.m3u8
+NTD TV East (New Tang Dynasty Television),https://ntd02.akamaized.net/NTDA/index.m3u8
+Ou-Mun Macau Satellite Ch. 96 (720p),https://live3.tdm.com.mo/ch3/ch3.live/playlist.m3u8
+PTS (公视) (720p),http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?ct=17990&tid=13765524&tsum=03eb77c1c186944b97737f14e95076c0
+RTHK (港台電視31) (360p) [Geo-blocked],https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
+RTHK (港台電視32) (360p) [Not 24/7],https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8
+SET Taiwan (三立臺灣台) (720p),http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?ct=17874&tid=m92ccadc4dc3718157816&tsum=3570a8198ca0fb7ebb803807e38b33fb
+Star Chinese Channel HD (卫视中文台) (720p),http://50.7.220.74:8278/weishichinese_twn/playlist.m3u8?ct=19226&tid=MA8A7894022878940228&tsum=c0323ce59263e0096d4181626874e17c
+TDM Info. Macau (720p) [Not 24/7],https://live3.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
+TDM Ou Mun Macau Ch. 91 (720p),https://live3.tdm.com.mo/ch1/ch1.live/playlist.m3u8
+Tech Storm (720p) [Geo-blocked],https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/index.m3u8
+TTV (台视) (720p),http://50.7.220.74:8278/ttv_taiwan/playlist.m3u8?ct=17874&tid=mdea1ba75c9e516139101&tsum=95f1742d36f959fe6e241587a4f8e970
+TVBS Asia (1080p),http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+TVBS HD (720p),http://50.7.220.74:8278/tvbs/playlist.m3u8?ct=19226&tid=MDED5111960351119603&tsum=49931e2d3885c468d56ffae2c2db9e6e
+TVS2 (576p),http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227005/index.m3u8
+Unique Satellite TV (非凡新聞台) (720p),http://50.7.220.74:8278/feifannews_twn/playlist.m3u8?ct=17874&tid=m050e7aad65f614336734&tsum=4ea1b829d195ac69a6c2ca51b21ae378
+ViuTV (720p),https://live.astradamy.com/viutv/index.m3u8
+ViuTVsix,http://61.238.6.49:8000/bysid/96
+Xing Kong International (360p),http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
+东乡电视台,http://117.156.28.119/270000001111/1110000131/index.m3u8
+东方卫视 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8
+和政电视台,http://117.156.28.119/270000001111/1110000149/index.m3u8
+四川卫视 (576p),http://39.134.115.163:8080/PLTV/88888910/224/3221225733/index.m3u8
+天津卫视 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225698/index.m3u8
+宁夏卫视 (576p),http://39.134.115.163:8080/PLTV/88888910/224/3221225726/index.m3u8
+安徽卫视 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225691/index.m3u8
+山东卫视 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225697/index.m3u8
+山东生活 (1080p) [Geo-blocked],http://livealone302.iqilu.com/iqilu/shpd.m3u8
+山东综艺 (406p) [Geo-blocked],http://livealone302.iqilu.com/iqilu/zypd.m3u8
+山东齐鲁 (1080p) [Geo-blocked],http://livealone302.iqilu.com/iqilu/qlpd.m3u8
+山西卫视 (576p),http://39.134.115.163:8080/PLTV/88888910/224/3221225730/index.m3u8
+广东公共 (576p),http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=85&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+广东卫视 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225701/index.m3u8
+广西卫视 (576p),http://39.134.115.163:8080/PLTV/88888910/224/3221225731/index.m3u8
+延边卫视 (576p),http://223.110.245.139/PLTV/4/224/3221227002/index.m3u8
+房山电视台 (576p),https://live.funhillrm.com/2/playlist.m3u8
+敦煌电视台 (1080p),http://117.156.28.119/270000001111/1110000028/index.m3u8
+江苏卫视 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225702/index.m3u8
+江西卫视 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8
+河北卫视 (576p),http://39.134.115.163:8080/PLTV/88888910/224/3221225732/index.m3u8
+河南卫视 (540p),http://112.25.48.68/live/program/live/hnws/1300000/mnf.m3u8
+浙江卫视 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8
+浙江数码时代 (1080p) [Not 24/7],http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+浙江民生休闲 (1080p) [Not 24/7],http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+海南卫视 (576p),http://39.134.115.163:8080/PLTV/88888910/224/3221225722/index.m3u8
+深圳卫视 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225700/index.m3u8
+湖北卫视 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225699/index.m3u8
+湖南卫视 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225704/index.m3u8
+滁州市广播电视台 公共频道 (400p),http://live.cztv.cc:85/live/ggpd.m3u8
+甘肃卫视 (576p),http://39.134.115.163:8080/PLTV/88888910/224/3221225724/index.m3u8
+美国中文电视 (406p) [Not 24/7],https://jpts.sinovision.net/livestream.m3u8
+西安丝路 (404p) [Not 24/7],http://stream2.xiancity.cn/xatv5/playlist.m3u8
+贵州卫视 (360p),http://125.210.152.18:9090/live/GZWSHD_H265.m3u8
+辽宁卫视 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225735/index.m3u8
+通州电视台 (720p),http://pull.dayuntongzhou.com/live/tztv.m3u8
+重庆卫视 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225692/index.m3u8
+青海卫视 (576p),http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8
+高台电视台 (1080p),http://117.156.28.119/270000001111/1110000146/index.m3u8
+黑龙江卫视 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225690/index.m3u8
+
+Animation,#genre#
+Animax Asia (Vietnamese Subs) (720p),https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/playlist.m3u8
+
+儿童,#genre#
+Boomerang South East Asia (Vietnamese dub) (1080p),https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist.m3u8
+Pluto TV BabyFirst (720p) [Not 24/7],https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+Toonmax TV (576p),http://210.210.155.37/qwr9ew/s/s50/index.m3u8
+山东少儿 (406p) [Geo-blocked],http://livealone302.iqilu.com/iqilu/sepd.m3u8
+浙江少儿 (1080p),http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+
+新闻,#genre#
+CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+CCTV-13新闻 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+CGTN (576p),http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=14&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+CTi News (中天新聞台),https://hls.youtb.workers.dev/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
+CTS News (華視新聞資訊) [Geo-blocked],http://seb.sason.top/sc/hsxw_fhd.m3u8
+EBC Financial News (東森財經新聞台) (720p),http://50.7.220.74:8278/ettvcaijing_twn/playlist.m3u8?ct=17874&tid=m999b5a0f7fca17599138&tsum=345085d2d6d4401fdb3da968dfee5a54
+EBC News (東森新聞台) (1080p) [Not 24/7],http://seb.sason.top/sc/dsxw_fhd.m3u8
+Era News (年代新聞台) (720p),http://50.7.220.74:8278/niandainews_twn/playlist.m3u8?ct=19226&tid=MA6A4647720946477209&tsum=48a66838dbcf633b2fb41307b29ef50a
+ETTV News (720p),http://50.7.220.74:8278/ettvnews/playlist.m3u8?ct=19225&tid=MAEA2793211727932117&tsum=151345e2ab6bc0c89ac85598f1988cd3
+FTV News (民視新聞台) (720p),http://198.16.64.10:8278/ftvnew_taiwan/playlist.m3u8?ct=19226&tid=ME4E4172771041727710&tsum=7b91c7af6212419479b392ff575e0689
+FTV Taiwan (民視台灣台) (720p),http://198.16.64.10:8278/ftvtaiwan_twn/playlist.m3u8?ct=19226&tid=MDFD8196635981966359&tsum=b82639ac8b4590b4206effe348e2f9c2
+NHK Chinese Vision (720p),https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+Phoenix InfoNews Channel (鳳凰衛視資訊) (576p),http://210.210.155.37/qwr9ew/s/s21/index.m3u8
+SET News (三立新聞) (720p),http://50.7.220.74:8278/sanlixiju_twn/playlist.m3u8?ct=19226&tid=MBDB8405357084053570&tsum=78944c0951d21a699e46fff4318a3799
+TTV News (台视新聞台),https://hls.youtb.workers.dev/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
+TVBS News (TVBS新聞台) (720p),http://50.7.220.74:8278/tvbs_n/playlist.m3u8?ct=19226&tid=MEFE5283322452833224&tsum=5f4e9bb0782ab3aae36328763cba2ffd
+滁州市广播电视台 新闻综合频道 (1080p),http://live.cztv.cc:85/live/xwpd.m3u8
+舟山新闻综合 (240p),http://live.wifizs.cn/xwzh/sd/live.m3u8
+萍鄉新聞綜合 (576p) [Not 24/7],http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv1stream.m3u8
+酒泉新闻综合 (576p),http://117.156.28.119/270000001111/1110000001/index.m3u8
+鹤壁新闻综合 (480p) [Not 24/7],http://pili-live-hls.hebitv.com/hebi/hebi.m3u8
+
+综合,#genre#
+CCTV-1综合 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+CCTV-4 Asia (576p),http://210.210.155.37/qwr9ew/s/s19/index.m3u8
+CreaTV Community Channel 15 (San Jose CA) (720p),https://reflect-creatv.cablecast.tv/live-13/live/live.m3u8
+CTi Asia (中天亞洲台) (720p),http://50.7.220.74:8278/ctiasia_twn/playlist.m3u8?ct=19226&tid=MC3C8838319088383190&tsum=6eaf7a477dd08b06a5dc54b4c05e52e1
+CTi Variety (中天綜合台) (720p),http://50.7.220.74:8278/ctizhonghe/playlist.m3u8?ct=19193&tid=MBBB1520797915207979&tsum=3a6f7f0c591c2ec6678d51b741f290b2
+DaAi1 (大愛1) (720p),https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+DaAi2 (大愛2) (720p),https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+FTV (民視) (720p),http://50.7.220.74:8278/ftvhd_taiwan/playlist.m3u8?ct=18335&tid=m15b424641a89&tsum=ba82cdbfb8253c45a13df5354e6d0dbc
+FTV One (民視第一台) (720p) [Not 24/7],http://seb.sason.top/ptv/ftv.php?id=dy
+HKSTV (香港衛視) (720p) [Not 24/7],https://al-pull2.hkatv.vip/live/hktv20210929.m3u8
+Phoenix Chinese Channel (鳳凰衛視中文) (576p),http://210.210.155.37/uq2663/h/h157/index2.m3u8
+Taiwan Indigenous TV (原住民電視) (720p),http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+Türkmenistan (112p) [Not 24/7],https://alpha.tv.online.tm/hls/ch007.m3u8
+TV BRICS Chinese (1080p) [Not 24/7],https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
+北京卫视 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225673/index.m3u8
+
+Business,#genre#
+CCTV-2财经 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
+徐州經濟生活 (1080p),http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8
+浙江经济生活 (1080p) [Not 24/7],http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+西安商务资讯 (180p) [Not 24/7],http://stream2.xiancity.cn/xatv3/playlist.m3u8
+點掌財經 (712p),http://cclive2.aniu.tv/live/anzb.m3u8
+
+娱乐,#genre#
+CCTV-3综艺 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+CTi Entertainment (中天娛樂台) (720p),http://50.7.220.74:8278/ctient/playlist.m3u8?ct=17874&tid=m6780c60bd34a13540795&tsum=06089e289a460b0685447b7656d550e3
+GTV Entertainment (八大综合台) (720p),http://50.7.220.74:8278/badazhonghe/playlist.m3u8?ct=19225&tid=MC7C4692263546922635&tsum=ffdc7a6397b511103e0df0b92e678790
+TDM Entertainment Ch. 95 (720p),https://live3.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
+TVBS Entertainment Channel (TVBS歡樂台) (720p),http://50.7.220.74:8278/tvbshuanle_twn/playlist.m3u8?ct=19193&tid=MC8C2318787923187879&tsum=394d2b9af3df7846e2cdc60d69dd4219
+
+Sports,#genre#
+CCTV-5体育 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
+TDM Sports Ch. 93 (720p),https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
+Türkmenistan Sport (406p) [Not 24/7],https://alpha.tv.online.tm/hls/ch004.m3u8
+Videoland Sports (720p),http://50.7.220.74:8278/videolandsport/playlist.m3u8?ct=19226&tid=MA6A1192684511926845&tsum=0b7ca9a61e7371df68108a27dc358c68
+山东体育 (1080p) [Geo-blocked],http://livealone302.iqilu.com/iqilu/typd.m3u8
+广东体育 (720p),http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=8&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+
+电影,#genre#
+CCTV-6电影 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225632/index.m3u8
+Celestial Movies (Indonesian Subtitle) (576p),http://210.210.155.37/dr9445/h/h14/index.m3u8
+CHC动作电影 (1080p) [Not 24/7],http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=119&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+EBC Foreign Movie (東森洋片台) (720p),http://50.7.220.74:8278/ettvwestern/playlist.m3u8?ct=17874&tid=mfdfc048e6c2416337202&tsum=cad39b26202d525ea820bee1d69e545f
+EBC Movie (東森電影台) (720p),http://50.7.220.74:8278/ettvmovie/playlist.m3u8?ct=19225&tid=MDED1943740419437404&tsum=120834a4218c4b5c3bb19efb8116f859
+Hollywood (720p),http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?ct=19225&tid=MECE5611281156112811&tsum=ad8884ee16b04f885f24bae98fc5fb9f
+LS Time Movie (720p),http://50.7.220.74:8278/cb7a1fec69/playlist.m3u8?ct=18335&tid=md05ab4002297&tsum=ebe4254ee0e073c2d3c9789e679c00a5
+My Cinema Asia (1080p) [Geo-blocked],http://210.210.155.37/uq2663/h/h193/index.m3u8
+Thrill (576p),http://210.210.155.37/qwr9ew/s/s34/index.m3u8
+Videoland Movie (緯來電影台) (720p),http://50.7.220.74:8278/videolandmovie/playlist.m3u8?ct=18335&tid=ma2dac66da407&tsum=9a5a39559f64a71081ef9b3a85f2886c
+
+记实,#genre#
+CCTV-9纪录 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
+
+教育,#genre#
+CCTV-10科教 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225636/index.m3u8
+
+音乐,#genre#
+CCTV-15音乐 (720p),http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=54&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+
+生活,#genre#
+CCTV-女性时尚 (576p),http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8
+
+宗教,#genre#
+Creation TV (720p) [Not 24/7],http://al-pull2.hkatv.vip/live/CTV.m3u8
+Lighting Lives Blessing Nations TV Chinese (LLBN) (480p),https://brightstar-chinese.secure.footprint.net/egress/bhandler/brightstar/brightstarChinese/manifest.m3u8
+唯心電視 (480p),http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+
+Classic,#genre#
+CTV Classic (中視經典台) (720p),http://50.7.220.74:8278/zhongshi_twn/playlist.m3u8?ct=18335&tid=mffe9aaf8765f&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
+
+Series,#genre#
+EBC Drama (東森戏剧台) (720p),http://198.16.64.10:8278/ettvdrama/playlist.m3u8?ct=19225&tid=ME1E3883142638831426&tsum=12c87a5fab65a0ba071cebce86313f45
+GTV Drama (八大戏剧台) (720p),http://50.7.220.74:8278/badadrama/playlist.m3u8?ct=19225&tid=ME4E4734124647341246&tsum=c4e596572a79ad99675ee2137d1cc43d
+LTV Drama (龙华戏剧) (720p),http://198.16.64.10:8278/lunghuaxiju_twn/playlist.m3u8?ct=19226&tid=MBAB4709384347093843&tsum=a2a7258f8565588e10b8da2f26ba8039
+
+Outdoor,#genre#
+Pluto TV Love Nature (720p),https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+天气,#genre#
+中国天气 (576p) [Not 24/7],http://112.25.48.68/live/program/live/zgqx/1300000/mnf.m3u8
+
+Animation;Kids,#genre#
+优漫卡通 (576p),http://223.110.243.171/PLTV/3/224/3221226982/index.m3u8
+金鹰卡通 (湖南) (540p) [Not 24/7],http://112.25.48.68/live/program/live/jykt/1300000/mnf.m3u8
+
+Family,#genre#
+四川妇女儿童 (720p) [Not 24/7],http://scgctvshow.sctv.com/hdlive/sctv7/index.m3u8
+
+Science,#genre#
+山东农科 (406p) [Geo-blocked],http://livealone302.iqilu.com/iqilu/nkpd.m3u8
+
+Education;Science,#genre#
+滁州科教 (450p),http://183.167.193.45:1935/live/cztvkj/playlist.m3u8
+
+Shop,#genre#
+耀才財經台 (576p),http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+风尚购物 (1080p),http://183.207.248.71/cntv/live1/fengshanggw/fengshanggw
+
